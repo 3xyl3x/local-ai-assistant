@@ -4,7 +4,7 @@ A simple Python chatbot powered by Ollama and a locally running LLM.
 
 The chatbot acts as a virtual receptionist for **Pulsverket**, a fictional gym. It answers customer questions about memberships, pricing, opening hours, personal training, group classes, and gym policies using a collection of Markdown documents.
 
-## Demo
+## Demo (Screenshot)
 
 ![Terminal demo](demo.png)
 
