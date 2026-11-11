@@ -8,7 +8,7 @@ from urllib.error import URLError, HTTPError
 
 # Konfiguration
 URL = "http://localhost:11434"
-MODEL = "llama3.1:8b"
+MODEL = "gemma4:26b"
 
 BASE_DIR = Path(__file__).resolve().parent
 KNOWLEDGE_DIR = BASE_DIR / "knowledge"
